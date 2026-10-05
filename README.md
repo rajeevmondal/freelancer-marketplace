@@ -1,6 +1,4 @@
-## 🚀 Live Demo
 
-[Live Demo](https://rajeevmondal.github.io/freelancer-marketplace/)
 
 
 [README.md](https://github.com/user-attachments/files/32304545/README.md)
